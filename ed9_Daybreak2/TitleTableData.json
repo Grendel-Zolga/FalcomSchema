@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "schema": {
+        "id": "u64",
+        "title_screen_map_id": "ptr_str_utf8",
+        "flag": "ptr_str_utf8",
+        "title_screen_bgm_id": "u32",
+        "title_screen_bgm_volume": "f32",
+        "opening_video_file": "ptr_str_utf8",
+        "opening_video_delay": "f32",
+        "empty": "u32"
+    }
+}
